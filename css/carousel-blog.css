@@ -10733,7 +10733,13 @@ a.text-dark:focus {
   }
 }
 
-.post1img {
+#post1img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#crit_img {
   display: block;
   margin-left: auto;
   margin-right: auto;
