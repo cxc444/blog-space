@@ -10733,7 +10733,7 @@ a.text-dark:focus {
   }
 }
 
-#post1img {
+.post1img {
   display: block;
   margin-left: auto;
   margin-right: auto;
